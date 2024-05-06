@@ -3,6 +3,7 @@
 ## 2024
 | Title | Directed by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [1922](https://en.wikipedia.org/wiki/1922_(2017_film)) | [Zak Hilditch](https://en.wikipedia.org/wiki/Zak_Hilditch) | 🇺🇸 | 2017 | Horror Drama | 2024/May/6 | ⭐️⭐️ |
 | [L'ultima notte di Amore](https://it.wikipedia.org/wiki/L%27ultima_notte_di_Amore) | [Andrea Di Stefano](https://it.wikipedia.org/wiki/Andrea_Di_Stefano) | 🇮🇹 | 2023 | Crime Drama | 2024/Apr/28 | ⭐️⭐️⭐️ |
 | [The Matrix Resurrections](https://en.wikipedia.org/wiki/The_Matrix_Resurrections) | [Lana Wachowski](https://en.wikipedia.org/wiki/The_Wachowskis) | 🇬🇧 | 2021 | Science Fiction | 2024/Apr/26 | ⭐️⭐️⭐️⭐️ |
 | [Dune: Part One](https://en.wikipedia.org/wiki/Dune_(2021_film)) | [Denis Villeneuve](https://en.wikipedia.org/wiki/Denis_Villeneuve) | 🇬🇧 | 2021 | Science Fiction | 2024/Apr/25 | ⭐️⭐️⭐️⭐️ |
