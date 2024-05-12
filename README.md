@@ -1,8 +1,9 @@
 # Movies I watched 🍿
 
 ## 2024
-| Title | Directed by | Lang | Year | Genre | When | Rating |
+| Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Masters of the Universe: Revolution](https://en.wikipedia.org/wiki/Masters_of_the_Universe:_Revelation) | [Kevin Smith](https://en.wikipedia.org/wiki/Kevin_Smith) | 🇺🇸 | 2024 | Action Adventure | 2024/May/12 | ⭐️⭐️⭐️⭐️⭐️ |
 | [C'è ancora domani](https://it.wikipedia.org/wiki/C%27è_ancora_domani) | [Paola Cortellesi](https://it.wikipedia.org/wiki/Paola_Cortellesi) | 🇮🇹 | 2023 | Comedy Drama | 2024/May/8 | ⭐️⭐️⭐️⭐️ |
 | [1922](https://en.wikipedia.org/wiki/1922_(2017_film)) | [Zak Hilditch](https://en.wikipedia.org/wiki/Zak_Hilditch) | 🇺🇸 | 2017 | Horror Drama | 2024/May/6 | ⭐️⭐️ |
 | [L'ultima notte di Amore](https://it.wikipedia.org/wiki/L%27ultima_notte_di_Amore) | [Andrea Di Stefano](https://it.wikipedia.org/wiki/Andrea_Di_Stefano) | 🇮🇹 | 2023 | Crime Drama | 2024/Apr/28 | ⭐️⭐️⭐️ |
